@@ -1,0 +1,123 @@
+.logo {
+    background-image: url("resource/logo.svg");
+    height: 100px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+@font-face {
+    font-family: "Quicksand";
+    src: url("fonts/Quicksand-Medium.ttf");
+}
+
+* {
+    font-family: "Quicksand";
+    font-size: 14px;
+}
+
+.main-body {
+    background-image: url("resources/background_images/background2.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.title2 {
+    font-size: 23px;
+    font-weight: bold;
+}
+
+
+/* header.php */
+
+.cart-icon {
+    background-image: url("resources/cartico.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+/* header.php */
+
+
+/* home.php */
+
+.poster-img-1 {
+    height: 450px;
+    background-repeat: no-repeat;
+}
+
+.poster-caption {
+    margin-bottom: 150px;
+}
+
+.poster-title {
+    font-size: 50px;
+    color: white;
+    font-weight: bold;
+}
+
+.poster-text {
+    font-size: 30px;
+    color: yellow;
+}
+
+.poster-caption-1 {
+    margin-bottom: 50px;
+    margin-right: 200px;
+}
+
+
+/* home.php */
+
+
+/* singleProductView */
+
+.main-img {
+    height: 400px;
+    width: 380px;
+    background-image: url("resources/empty.svg");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.pm {
+    height: 65px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.pm1 {
+    background-image: url("resources/payments_methods/visa_img.png");
+}
+
+.pm2 {
+    background-image: url("resources/payments_methods/mastercard_img.png");
+}
+
+
+/* singleProductView */
+
+
+/* add product */
+
+.pm3 {
+    background-image: url("resources/payments_methods/american_express_img.png");
+}
+
+.pm4 {
+    background-image: url("resources/payments_methods/paypal_img.png");
+}
+
+
+/* add product */
+
+.img {
+    height: 200px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
