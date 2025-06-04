@@ -1,2 +1,2 @@
 # NewTech
-Student Management System
+E-commerce web application for tech shop
