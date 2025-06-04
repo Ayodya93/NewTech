@@ -1,0 +1,2 @@
+# NewTech
+Student Management System
